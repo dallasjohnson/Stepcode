@@ -1,6 +1,7 @@
 ---
-
-layout: home
+layout: page
+title: "Home"
+permalink: /
 ---
 
 Step Code provides software and data consultancy services for a range of requirements.

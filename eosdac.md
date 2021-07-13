@@ -1,6 +1,7 @@
 ---
-
-layout: home
+layout: page
+title: "EOSDac"
+permalink: /eosdac
 ---
 
 The idea of being able to run an autonomous organisation on a blockchain has been a dream until now.
