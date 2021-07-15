@@ -1,5 +1,6 @@
 {
-  "name": "Stepcode website",
+  "name": "stepcode-website",
+  "description": "Website data for Stepcode website",
   "version": "1.0.0",
   "repository": "git@github.com:step-code/Stepcode.git",
   "author": "Dallas Johnson",
