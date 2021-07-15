@@ -1,0 +1,109 @@
+########################## hero area ##########################
+hero:
+  title: "Step Code"
+
+  # animated text loop
+  occupations:
+    - 'Smart contract development'
+    - 'iOS Mobile development'
+    - 'GraphQL development'
+    - 'Scaled blockchain architecture'
+    - 'NodeJS'
+    - 'React'
+
+  # hero background image
+  bg_image: 'images/background2.jpg'
+  # optional mobile breakpoint background
+  # mobile_bg_image: 'images/gus_small.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  # image: 'images/profile.jpg'
+  title: 'Dallas Johnson'
+  content: Lead Engineer. If you have any questions please feel free to reach out on [LinkedIn, Github, or by email](#contact)!
+  button:
+    enable: false
+    label: 'DOWNLOAD MY RESUME'
+    link: #
+    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'Projects'
+  experience_list:
+    - name: Alien Worlds
+      company: Technical Architecture/Leadership
+      duration: Blockchain based game
+      content: Alien Worlds is the worlds most popular blockchain based game growing at an enormous pace with user aquisition across multiple blockchain technology stacks.
+
+    - name: EOSIO smart contract developer
+      company: EOSDAC
+      duration: Blockchain based DAO software package
+      content: Smart contract architecture/C++ smart contracts.
+  
+    - name: iOS Mobile Tech Lead Engineer
+      company: Lloyds Banking Group
+      duration: Digital transformation
+      content: Building out a new iOS platform and GraphQL API layer
+      
+    - name: iOS Mobile Lead Engineer
+      company: Solera Holdings
+      duration: Digital Garage
+      content: Team lead for iOS/Android multi module apps with Unity integration.
+
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'Expertise'
+  showpercent: false
+  skill_list:
+    - name: 'iOS mobile'
+      percentage: '98%'
+
+    - name: 'C++ Smart Contracts'
+      percentage: '93%'
+
+    - name: 'GraphQL'
+      percentage: '92%'
+
+    - name: 'React'
+      percentage: '86%'
+
+    - name: 'NodeJS'
+      percentage: '97%'
+
+######################### funfacts #############################3
+# portfolio:
+#   enable: true
+#   funfacts_list:
+#     - name: 'CUPS PER DAY'
+#       image: 'images/icons/coffee.png'
+#       count: '2'
+
+#     - name: 'SITES BUILT'
+#       image: 'images/icons/web-development.png'
+#       count: '25'
+
+############################# portfolio ################################
+
+portfolio:
+  enable: true
+  title: 'OUR WORK'
+  portfolio_list:
+    - name: Alien Worlds
+      image: 'images/portfolio/alien-worlds.png'
+      url: https://alienworlds.io
+      description: Alien Worlds is the largest blockchain game by users and close to the most popular blockchain app across all blockchains and categories. The game is built around the idea of using NFTs (Non fungible blockchain tokens) to complete various activities in the game for the chance to earn more crypto tokens or win more NFTs. The huge success of the game in terms of user adoption has presented the founding team with the unexpected, but welcome, challenge of scaling all the game related systems and processes to be to handle the extra load. Step Code has been engaged to help manage the growth by leading the implementation of the software industry's best practices and processes to help Alien Worlds hit upcoming milestones.
+
+    - name: EOSDAC
+      image: 'images/portfolio/EOSDAC.png'
+      url: https://eosdac.io
+      description: 'EOSDAC is a decentralized autonomous governance system built to work on any EOSIO blockchain. Working as a key member of the development team Dallas Johnson at Step Code has been building the smart contracts for the EOSDAC project from the beginning and played a key role in many of the technical architectural decisions for the project.'
+
+    - name: Digital Garage
+      image: 'images/portfolio/digital-garage.png' 
+      url: 'https://apps.apple.com/us/app/digital-garage/id1231058026#?platform=iphone'
+      description: Solera's Digital Garage mobile app utilised the extensive automotive database with the best of iOS and Android mobile technologies to help car owners maintain the service history and condition of their car. The app would maintain a connection with a custom designed and built OBD device plugged into the car so technical data could be read and processed by the app and sent to the company's database systems. The app also included 3D rendering UI of the user's cars, built with Unity, so users could have a more interactive experience in the app and use it to make insurance claims for car body damage directly from within the app.
