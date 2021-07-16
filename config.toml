@@ -44,7 +44,7 @@ URL = "#about"
 weight = 2
 
 [[menu.main]]
-name = "Portfolio"
+name = "Portfoliossss"
 URL = "#portfolio"
 weight = 3
 
@@ -55,7 +55,7 @@ logo_light = "images/favicon.png"
 logo_dark = "images/favicon.png"
 copyright = "Copyright Step Code Ltd. &copy;"
 # Meta data
-description = "Portfoliosss"
+description = "Portfolio"
 author = "Step Code Ltd."
 favicon = "images/favicon.png"
 
