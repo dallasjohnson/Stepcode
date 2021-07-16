@@ -44,7 +44,7 @@ URL = "#about"
 weight = 2
 
 [[menu.main]]
-name = "Portfoliossss"
+name = "Portfolio"
 URL = "#portfolio"
 weight = 3
 
