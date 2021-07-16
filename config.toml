@@ -39,7 +39,7 @@ URL = "#home"
 weight = 1
 
 [[menu.main]]
-name = "About us"
+name = "About"
 URL = "#about"
 weight = 2
 
