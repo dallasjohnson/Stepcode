@@ -51,8 +51,8 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo_light = "images/logo.svg"
-logo_dark = "images/logo-dark.svg"
+logo_light = "images/favicon.png"
+logo_dark = "images/favicon.png"
 copyright = "Copyright Step Code Ltd. &copy;"
 # Meta data
 description = "Portfolio"
